@@ -1,0 +1,15 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "2010 - 2015",
+			"company" : "Sacramento State University",
+			"description" : "Bachelors in Theatre"
+		},
+		{
+			"timeperiod" : "2015 - Present",
+			"company" : "Saddleback College",
+			"description" : "Film Masters"
+		}
+	]
+}

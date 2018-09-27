@@ -1,0 +1,15 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Copywriting",
+			"description" : "Writing compelling copy and screenplays"
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Script Supervising",
+			"description" : "Dissecting every shot with extreme attention to detail"
+		}
+	]
+}
