@@ -1,35 +1,40 @@
 {
-	"title" : "Experience",
-	"experience" : [
-		{
-			"timeperiod" : "2010 - 2015",
-			"company" : "California State University, Sacramento",
-			"description" : "Bachelors in Theatre Arts"
-		},
-		{
-			"timeperiod" : "2012 - 2014",
-			"company" : "Side Door Productions",
-			"description" : "Script Writer & Acting Coach"
-		},
-		{
-			"timeperiod" : "2015 - Present",
-			"company" : "Saddleback College",
-			"description" : "Technical Certificate - Cinema/T.V."
-		},
-		{
-			"timeperiod" : "January 2017",
-			"company" : "Cabrillo Playhouse",
-			"description" : "Produced Scriptwriter - One Act \"Dust\" "
-		},
-		{
-			"timeperiod" : "May 2018",
-			"company" : "New York Film Academy - Lights Up",
-			"description" : "Script Supervision"
-		},
-		{
-			"timeperiod" : "October 2018",
-			"company" : "New York Film Academy - Written Words",
-			"description" : "Script Supervision - IMDB Credited"
-		}
-	]
+  "title": "Experience",
+  "experience": [
+    {
+      "timeperiod": "2010 - 2015",
+      "company": "California State University, Sacramento",
+      "description": "Bachelors in Theatre Arts"
+    },
+    {
+      "timeperiod": "2012 - 2014",
+      "company": "Side Door Productions",
+      "description": "Script Writer & Acting Coach"
+    },
+    {
+      "timeperiod": "2015 - Present",
+      "company": "Saddleback College",
+      "description": "Technical Certificate - Cinema/T.V."
+    },
+    {
+      "timeperiod": "January 2017",
+      "company": "Cabrillo Playhouse",
+      "description": "Produced Scriptwriter - One Act \"Dust\" "
+    },
+    {
+      "timeperiod": "May 2018",
+      "company": "New York Film Academy - Lights Up",
+      "description": "Script Supervision"
+    },
+    {
+      "timeperiod": "October 2018",
+      "company": "New York Film Academy - Written Words",
+      "description": "Script Supervision - IMDB Credited"
+    },
+    {
+      "timeperiod": "Febuary 2019 - Present",
+      "company": "ASAP Semiconductor",
+      "description": "Copywriter"
+    }
+  ]
 }
