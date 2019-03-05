@@ -1,4 +1,4 @@
-baseURL = "justinerea.com"
+baseURL = ""
 languageCode = "en-us"
 title = "Justine Rea"
 theme = "hugo-uilite"
