@@ -1,13 +1,15 @@
-<html>
+
     {{ partial "header.html" . }}
 
-  <div class="main-content">
+  <div class="main-content active">
     <section>
         {{.Content}}
 
         {{ range .Pages }}
         <div class="block">
-          <h2 class="em2 m0"><a href="{{.URL}}">{{.Title}}</a></h2>
+          <h2 class="em2 m0"><a href="{{.URL}}">{{.Title}}</a>
+            <small>{{.Date.Format "2006-01-02"}}</small>
+          </h2>
           <p>{{.Description}}</p>
         </div>
         {{ end }}
@@ -15,7 +17,3 @@
 
   </div>
   {{ partial "footer-scripts.html" . }}
-
-</body>
-
-</html>
