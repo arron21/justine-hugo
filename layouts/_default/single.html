@@ -1,10 +1,27 @@
 {{ partial "header.html" . }}
 
-<div class="main-content active">
+<div class="">
     <section>
 
-    <main>{{.Content}}</main>
+    <main class="main">{{.Content}}</main>
     </section>
 </div>
 
+
+
 {{ partial "footer-scripts.html" . }}
+<script>
+Textblock([{
+    target: ".main",
+    minWidth: 280,
+    maxWidth: 800,
+    minWidthFontSize: 1.9,
+    maxWidthFontSize: 2.6,
+    minWidthLineHeight: 1.33,
+    maxWidthLineHeight: 1.25,
+    minWidthVariableGrade: 366,
+    maxWidthVariableGrade: 300,
+    container: "self",
+    units: "rem"
+}]);
+</script>
