@@ -5,4 +5,6 @@ title = "Conversational Tone in Writing"
 +++
 # Conversational Tone in Writing
 
-Writing with a tone is paramount to creating a connection with the reader.
+Writing with the most appropriate tone is paramount to creating a connection with the reader. But, what does that even mean?
+
+Check me out on 8/19/2019 to hear all about it.
