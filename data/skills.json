@@ -1,8 +1,8 @@
 {
   "title": "Skills",
   "skills": {
-    "Screenwriting": 90,
-    "Script Supervision": 90,
-    "Copywriting": 90
+    "Screenwriting": "90",
+    "Script Supervision": "80",
+    "Copywriting": "85"
   }
 }
