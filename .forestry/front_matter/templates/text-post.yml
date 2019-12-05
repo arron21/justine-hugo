@@ -6,3 +6,5 @@ fields:
   name: title
   label: Title
   description: 'The Title of your blog post '
+pages:
+- content/blog/test.md
