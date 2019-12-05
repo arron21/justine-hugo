@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/sidebar.json
   label: profile photo
-  match: "**/*"
 - type: directory
   path: content/blog
   label: Blog
